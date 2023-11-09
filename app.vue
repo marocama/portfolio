@@ -73,6 +73,14 @@
       resources: ['Vue.js', 'Javascript', 'Firebase'],
     },
     {
+      image: 'https://github.com/marocama/g-crawler/raw/master/demo.jpeg?raw=true',
+      title: 'G Crawler',
+      github: 'https://github.com/marocama/g-crawler',
+      link: 'https://g-web-crawler.web.app/',
+      description: 'Web Crawler de resultados do Google.',
+      resources: ['Javascript', 'Nuxt.js', 'Node.js', 'Firebase', 'REST'],
+    },
+    {
       image: 'https://github.com/marocama/fire-graphql/raw/master/demo_play.png?raw=true',
       title: 'Fire GraphQL',
       github: 'https://github.com/marocama/fire-graphql',
