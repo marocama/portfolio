@@ -81,6 +81,14 @@
       resources: ['Javascript', 'Nuxt.js', 'Node.js', 'Firebase', 'REST'],
     },
     {
+      image: 'https://firebasestorage.googleapis.com/v0/b/fire-graphql-api.appspot.com/o/github%2Fredis.jpeg?alt=media&token=83963a24-4827-4ab8-9ff2-58892e8cf462',
+      title: 'Redis Mongo',
+      github: 'https://github.com/marocama/redis-mongo',
+      link: '',
+      description: 'Aplicação Node.js com MongoDB e Redis como cache.',
+      resources: ['Javascript', 'Node.js', 'MongoDB', 'Redis', 'REST', 'Docker'],
+    },
+    {
       image: 'https://github.com/marocama/fire-graphql/raw/master/demo_play.png?raw=true',
       title: 'Fire GraphQL',
       github: 'https://github.com/marocama/fire-graphql',
