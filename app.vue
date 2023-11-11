@@ -195,6 +195,7 @@
   ]
 
   const selected = ref('')
+  
   const filtered = computed(() => selected.value ? items.filter(i => i.resources.includes(selected.value)) : items)
 
   const pointerScroll = elem => { let isDrag = false
